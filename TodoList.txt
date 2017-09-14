@@ -1,0 +1,3 @@
+level1.js
+ - Check if diagonal movement is viable (Update Function);
+ - Change movimentation to "tile based" (move a tile and briefly stop);

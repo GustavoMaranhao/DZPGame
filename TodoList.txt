@@ -1,3 +1,32 @@
 level1.js
- - Check if diagonal movement is viable (Update Function);
+ - Check if diagonal movement is viable (Update Function) - probably not;
  - Change movimentation to "tile based" (move a tile and briefly stop);
+
+
+
+
+
+
+ShipTileset.psd
+Landscape:
+ - Ship's side;
+ - Stairs;
+ - Mast;
+ - Ship's fore beam (improve with side visibility);
+ - Inner raillings and inner tilted walls for perspective;
+ - Ocean (improve the tileset with waves);
+
+Objects:
+ - Barrels;
+ - Ropes;
+ - Splinters and loose chunks of wood;
+ - Boxes;
+ - Lanterns;
+ - Sails;
+ - Timon and rudder;
+ - Cannons;
+ - Cannonballs;
+
+Character Spritesheets:
+ - Main Character (halfway done);
+ - First pirate;
